@@ -1,1 +1,1 @@
-Edit baris1 di local
+Edit baris1 di local, edit baris1 di remote
